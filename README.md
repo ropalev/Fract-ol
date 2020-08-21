@@ -9,9 +9,9 @@ This new project will make you discover/use the mathematical notion of complex n
 •	Graphics 
 ## How to run it?
 •	git clone https://github.com/ropalev/Fract-ol.git «Folder name»  
-•	cd «Folder name»
-•	make
-•	run the program using executable "fractol" and a fractol number as an argument. (Number j - Julia, b - Mandelbrot, s - Burningship)
+•	cd «Folder name»  
+•	make  
+•	run the program using executable "fractol" and a fractol number as an argument. (Number j - Julia, b - Mandelbrot, s - Burningship)  
 For example:
 ```
 ./fractol j
